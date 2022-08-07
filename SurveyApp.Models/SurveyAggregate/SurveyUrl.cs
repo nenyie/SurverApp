@@ -8,5 +8,6 @@ namespace SurveyApp.Models.SurveyAggregate
 {
     public class SurveyUrl
     {
+
     }
 }
